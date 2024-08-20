@@ -1,0 +1,9 @@
+# Ignorar todos los archivos con información personal y las estadísticas procesadas
+# Ignorar la carpeta 'data' y todo su contenido
+data/
+
+# Ignorar archivos específicos
+source.txt
+statsexcel.xlsx
+linkedin.txt_Pieces.zip
+datos_extraidos.csv
